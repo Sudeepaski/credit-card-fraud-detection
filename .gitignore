@@ -1,0 +1,12 @@
+# Data
+data/creditcard.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
